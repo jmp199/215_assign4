@@ -1,0 +1,38 @@
+.box{
+  min-height:100px;
+  min-width:100px;
+  border-radius:10px;
+  background-color:rebeccapurple;
+  border:2px solid white;
+  color:white;
+}
+
+.character{
+  min-height:600px;
+  min-width:600px;
+  border-radius:10px;
+  margin-bottom:15px;
+  color:white;
+  box-sizing:border-box;
+  padding:8px;
+  position:relative;
+}
+
+.character1{
+  margin-bottom:10px;
+}
+
+.autobot{
+  background-color:red;
+  border:1px solid #991f00;
+}
+
+.decepticon{
+  background-color:#660066;
+  border:1px solid #330033;
+}
+
+.box1{
+text-transform:uppercase;
+  
+}
